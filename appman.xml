@@ -1,9 +1,9 @@
 <roms>
 	<rom>
-		<rom_name>T.E.A.M.</rom_name>
-		<phone>x10</phone>
-		<dev>pvyParts and iridaki</dev>
-		<github_name>pvyParts</github_name>
+		<rom_name>ThGo2</rom_name>
+		<phone>SO-01C</phone>
+		<dev>ThJapn (Thanks to pvyParts and iridaki)</dev>
+		<github_name>hayashikejinan</github_name>
 		<apps>true</apps>
 		<tweaks>ture</tweaks>
 		<mods>true</mods>

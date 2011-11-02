@@ -145,16 +145,14 @@
 		</files>
 	</app>
 	<app>	    
-		<name>Sony Japanese Keyboard</name>
+		<name>Japanese Keyboard POBox 4.3</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock x10 2.3.3</version>
-		<description>Stock 2.3.3 Japanese Keyboard and Themes</description>
+		<description>Japanese Keyboard POBox 4.3</description>
 		<files>
-		  <file filename="JapaneseIME.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/JapaneseIME.apk" md5="b180fe866c2eb4bbd202d4d342a96ffb" />
-		  <file filename="POBoxSknPink.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/POBoxSknPink.apk" md5="dd93a8793d58bb64d86c80c93f0fb507" />
-		  <file filename="POBoxSknWood.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/POBoxSknWood.apk" md5="2d206b0b5c97271037570c89c1bb44a8" />
+		  <file filename="JapaneseIME4.3.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/JapaneseIME4.3.apk" md5="b7858a9c9e8e9d8f734fba0b3c042025" />
 		</files>
 	</app>
 	
