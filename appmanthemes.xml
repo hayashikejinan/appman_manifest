@@ -1,13 +1,13 @@
 <apps>	    
 	<app>	    
-		<name>Purple Full Theme for V3.5</name>
-		<moddate>23-10-2011</moddate>
-		<credits>iridaki</credits>
+		<name>Honeycomb theme mod v10.0</name>
+		<moddate>05-11-2011</moddate>
+		<credits>Madsaki</credits>
 		<url>http://google.com</url>
-		<version>TEAM v3.5 and up</version>
-		<description>Full purple theme for TEAM ROM V3.5</description>
+		<version>~v10.0</version>
+		<description>HoneyCombat for ThGo2 ROM 10.0</description>
 		<files>
-			<file filename="TEAM_Purple_For_v3.5.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/TEAM_Purple_For_v3.5.zip" md5="69e1d7cfc07718f0b23e6452e56f4cfa" />
+			<file filename="Thgo2_HoneyComb.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/theme/Thgo2_HoneyComb.zip" md5="b5b51b9bd66f420f49a8224a9d038bfd" />
 		</files>
 	</app>
 </apps>

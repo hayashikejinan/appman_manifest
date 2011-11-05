@@ -1,5 +1,16 @@
 <apps>	    
 	<app>	    
+		<name>Stock Conversation</name>
+		<moddate>05-11-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>x10 2.3.3 Default Message app - Pulled from 2.3.3 System Dump</description>
+		<files>
+			<file filename="Conversations.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/Conversations.apk" md5="d90d88a1ed9248b87d26331d25ae0639" />
+		</files>
+	</app>
+	<app>	    
 		<name>Stock Timescape</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -152,7 +163,7 @@
 		<version>Stock x10 2.3.3</version>
 		<description>Japanese Keyboard POBox 4.3</description>
 		<files>
-		  <file filename="JapaneseIME4.3.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/JapaneseIME4.3.apk" md5="b7858a9c9e8e9d8f734fba0b3c042025" />
+		  <file filename="JapaneseIME4.3.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/JapaneseIME4.3.apk" md5="b7858a9c9e8e9d8f734fba0b3c042025" />
 		</files>
 	</app>
 	
