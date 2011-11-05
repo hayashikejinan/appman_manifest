@@ -7,7 +7,7 @@
 		<apps>true</apps>
 		<tweaks>ture</tweaks>
 		<mods>true</mods>
-		<updates>true</updates>
+		<updates>false</updates>
 		<themes>true</themes>
 		<kernels>true</kernels>
 	</rom>
