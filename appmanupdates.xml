@@ -1,13 +1,13 @@
 <apps>
 <app>	    
-		<name>ThGo2 v10.0 beta</name>
-		<moddate>31-10-2011</moddate>
+		<name>ThGo2 v10.0fix</name>
+		<moddate>06-11-2011</moddate>
 		<credits>ThJap</credits>
-		<url>http://www.mediafire.com/?dgsjxw4krxrwdje</url>
+		<url>http://www.dream-pro.info/~xperiajp/files/update/ThGo2_v10.0fix.zip</url>
 		<version>v10.0 beta</version>
-		<description>ThGo2 v10.0 beta - Bugfixes, New Theme</description>
+		<description>ThGo2 v10.0fix home,appman fix</description>
 		<files>
-			<file filename="ThGo2_v10.0beta.zip" location="sdcard/appman/" perms="0644" appurl="http://www.mediafire.com/?dgsjxw4krxrwdje" md5="1f4eb2d6807989ce93328eea2c1bd414" />
+			<file filename="ThGo2_v10.0fix.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/update/ThGo2_v10.0fix.zip" md5="e23a2d4d34399f61902cfdf53c5cd57b" />
 		</files>
 		</app>	
 </apps>
