@@ -1,5 +1,16 @@
 <apps>	    
 	<app>	    
+		<name>iida home</name>
+		<moddate>05-11-2011</moddate>
+		<credits>iida</credits>
+		<url>http://google.com</url>
+		<version>all</version>
+		<description>Japanese info bar home apps</description>
+		<files>
+			<file filename="iidahome_xRecovery2.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/theme/iidahome_xRecovery2.zip" md5="72ac50dfcce37153cc289c5efbf43eb2" />
+		</files>
+	</app>
+	<app>
 		<name>Honeycomb theme mod v10.0</name>
 		<moddate>05-11-2011</moddate>
 		<credits>Madsaki</credits>
@@ -10,5 +21,15 @@
 			<file filename="Thgo2_HoneyComb.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/theme/Thgo2_HoneyComb.zip" md5="b5b51b9bd66f420f49a8224a9d038bfd" />
 		</files>
 	</app>
+	<app>
+		<name>nothing</name>
+		<moddate>00-00-2000</moddate>
+		<credits>credits</credits>
+		<url>http://google.com</url>
+		<version>all</version>
+		<description>description</description>
+		<files>
+			<file filename="" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/theme/" md5="" />
+		</files>
+	</app>
 </apps>
-
