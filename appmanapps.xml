@@ -1,5 +1,16 @@
 <apps>	    
 	<app>	    
+		<name>Japanese Keyboard POBox 4.3</name>
+		<moddate>06-11-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Japanese Keyboard POBox 4.3</description>
+		<files>
+		  <file filename="JapaneseIME4.3.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/JapaneseIME4.3.apk" md5="b7858a9c9e8e9d8f734fba0b3c042025" />
+		</files>
+	</app>
+	<app>	    
 		<name>Stock Conversation</name>
 		<moddate>05-11-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -155,18 +166,6 @@
 			<file filename="chinesetextinput.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/chinesetextinput.apk" md5="570cf0d0ca63de51c040ad12c8bbc398" />	
 		</files>
 	</app>
-	<app>	    
-		<name>Japanese Keyboard POBox 4.3</name>
-		<moddate>09-09-2011</moddate>
-		<credits>Sony Ericsson</credits>
-		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>Japanese Keyboard POBox 4.3</description>
-		<files>
-		  <file filename="JapaneseIME4.3.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/JapaneseIME4.3.apk" md5="b7858a9c9e8e9d8f734fba0b3c042025" />
-		</files>
-	</app>
-	
 	<app>	    
 		<name>Sony Bloatware</name>
 		<moddate>09-09-2011</moddate>
