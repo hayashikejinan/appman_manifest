@@ -1,5 +1,60 @@
-<apps>	    
-	<app>	    
+<apps>
+	<app>
+		<name>LEDs between buttons disable</name>
+		<moddate>06/11/2011</moddate>
+		<credits>zorglub08</credits>
+		<url>http://google.com</url>
+		<version></version>
+		<description>LEDs between buttons disable</description>
+		<files>
+			<file filename="50nobuttonleds" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/50nobuttonleds" md5="f7da991a6b1edcde54c274ffe4e84b37" />
+		</files>
+	</app>
+	<app>
+		<name>compcache-swap disable</name>
+		<moddate>06/11/2011</moddate>
+		<credits>ThJap</credits>
+		<url>http://google.com</url>
+		<version></version>
+		<description>disable compcache, swap. fastest</description>
+		<files>
+			<file filename="23compcache" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/nomal/23compcache" md5="26a5a34bd17cbcc3be97f380cf7a0509" />
+		</files>
+	</app>
+	<app>
+		<name>compcache enable</name>
+		<moddate>06/11/2011</moddate>
+		<credits>ThJap</credits>
+		<url>http://google.com</url>
+		<version></version>
+		<description>enable compcache grow memory</description>
+		<files>
+			<file filename="23compcache" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/cc_on/23compcache" md5="d3be1e11c59bbe5321d21626a7e4305d" />
+		</files>
+	</app>
+	<app>
+		<name>compcache with swap enable</name>
+		<moddate>06/11/2011</moddate>
+		<credits>ThJap</credits>
+		<url>http://google.com</url>
+		<version></version>
+		<description>enable compcache with swap. compcahe works as buffer swap</description>
+		<files>
+			<file filename="23compcache" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/cc_with_swap/23compcache" md5="1dfe0d8803c950501a8e24aff6736a40" />
+		</files>
+	</app>
+	<app>
+		<name>compcache and-swap enable</name>
+		<moddate>06/11/2011</moddate>
+		<credits>ThJap</credits>
+		<url>http://google.com</url>
+		<version></version>
+		<description>compcache and-swap enable. both work as same time.</description>
+		<files>
+			<file filename="23compcache" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/cc_and_swap/23compcache" md5="d9d08b798f0aeff7d9890213e5c204cc" />
+		</files>
+	</app>
+	<app>
 		<name>No Scripts Yet!</name>
 		<moddate>01/01/2000</moddate>
 		<credits>Someone!</credits>
