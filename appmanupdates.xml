@@ -7,7 +7,7 @@
 		<version>v10.0 beta</version>
 		<description>ThGo2 v10.0fix home,appman fix</description>
 		<files>
-			<file filename="ThGo2_v10.0fix.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/update/ThGo2_v10.0fix.zip" md5="e23a2d4d34399f61902cfdf53c5cd57b" />
+			<file filename="ThGo2_v10.0fix.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/update/ThGo2_v10.0fix.zip" md5="986c15239a8eda314ced637cd599e698" />
 		</files>
 		</app>	
 </apps>
