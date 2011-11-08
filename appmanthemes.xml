@@ -1,5 +1,16 @@
-<apps>	    
-	<app>	    
+<apps>
+	<app>
+		<name>GreenGlow</name>
+		<moddate>08-11-2011</moddate>
+		<credits>Madsaki</credits>
+		<url>http://google.com</url>
+		<version>~v10.0</version>
+		<description>GreenGlow theme for ThGo2 ROM 10.0</description>
+		<files>
+			<file filename="Thgo2_GreenGlow.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/theme/Thgo2_GreenGlow.zip" md5="61d4e857377e234cb85d5e388df32fe9" />
+		</files>
+	</app>
+	<app>
 		<name>iida home</name>
 		<moddate>05-11-2011</moddate>
 		<credits>iida</credits>
