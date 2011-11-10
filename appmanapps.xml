@@ -1,5 +1,16 @@
 <apps>	    
 	<app>	    
+		<name>2.3.4 Stock DLNA</name>
+		<moddate>05-11-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>x10 2.3.3 DLNA app - Pulled from 2.3.4 Arc System Dump</description>
+		<files>
+			<file filename="SemcDlna.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/SemcDlna.apk" md5="0820d9ec8e84a7215551abb6cdf913bf" />
+		</files>
+	</app>
+	<app>
 		<name>Japanese Keyboard POBox 4.3</name>
 		<moddate>06-11-2011</moddate>
 		<credits>Sony Ericsson</credits>
