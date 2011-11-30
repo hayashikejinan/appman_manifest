@@ -1,14 +1,13 @@
 <apps>
-<app>	    
+<app>
 		<name>ThGo2 v10.0fix</name>
 		<moddate>06-11-2011</moddate>
 		<credits>ThJap</credits>
-		<url>http://www.dream-pro.info/~xperiajp/files/update/ThGo2_v10.0fix.zip</url>
-		<version>v10.0 beta</version>
-		<description>ThGo2 v10.0fix home,appman fix</description>
+		<url>http://forum.xda-developers.com/member.php?u=4118659</url>
+		<version>rev09-2</version>
+		<description>Th kernel rev09-2 for unlocked</description>
 		<files>
-			<file filename="ThGo2_v10.0fix.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/update/ThGo2_v10.0fix.zip" md5="986c15239a8eda314ced637cd599e698" />
+			<file filename="BM_2.3Th_kernel_rev09-2.zip" location="sdcard/appman/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/update/BM_2.3Th_kernel_rev09-2.zip" md5="892fa3244b80f861d6b85f1a4e18073b" />
 		</files>
-		</app>	
-</apps>
+</app>
 
