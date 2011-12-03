@@ -32,38 +32,5 @@
 			<file filename="23compcache" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/cc_on/23compcache" md5="d3be1e11c59bbe5321d21626a7e4305d" />
 		</files>
 	</app>
-	<app>
-		<name>compcache with swap enable</name>
-		<moddate>06/11/2011</moddate>
-		<credits>ThJap</credits>
-		<url>http://google.com</url>
-		<version></version>
-		<description>enable compcache with swap. compcahe works as buffer swap</description>
-		<files>
-			<file filename="23compcache" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/cc_with_swap/23compcache" md5="1dfe0d8803c950501a8e24aff6736a40" />
-		</files>
-	</app>
-	<app>
-		<name>compcache and-swap enable</name>
-		<moddate>06/11/2011</moddate>
-		<credits>ThJap</credits>
-		<url>http://google.com</url>
-		<version></version>
-		<description>compcache and-swap enable. both work as same time.</description>
-		<files>
-			<file filename="23compcache" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/cc_and_swap/23compcache" md5="d9d08b798f0aeff7d9890213e5c204cc" />
-		</files>
-	</app>
-	<app>
-		<name>No Scripts Yet!</name>
-		<moddate>01/01/2000</moddate>
-		<credits>Someone!</credits>
-		<url>http://google.com</url>
-		<version>Pre Alpha!</version>
-		<description> </description>
-		<files>
-			<file filename="*.*" location="system/etc/" perms="0644" appurl="http://android.magnificentblog.com/files/" md5="" />
-		</files>
-	</app>
 </apps>
 
