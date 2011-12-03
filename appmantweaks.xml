@@ -1,9 +1,20 @@
 <apps>
 	<app>
+		<name>make swap to cache directory</name>
+		<moddate>04/12/2011</moddate>
+		<credits>inteks</credits>
+		<url>http://forum.xda-developers.com/member.php?u=347468</url>
+		<version></version>
+		<description>make swap to cache directory</description>
+		<files>
+			<file filename="24swaptocache" location="system/etc/init.d/" perms="0777" appurl="http://www.dream-pro.info/~xperiajp/files/tweak/24swaptocache" md5="8958419d93f0f7642e36aa01201ce60d" />
+		</files>
+	</app>
+	<app>
 		<name>LEDs between buttons disable</name>
 		<moddate>06/11/2011</moddate>
 		<credits>zorglub08</credits>
-		<url>http://google.com</url>
+		<url>http://forum.xda-developers.com/member.php?u=4118659</url>
 		<version></version>
 		<description>LEDs between buttons disable</description>
 		<files>
@@ -14,7 +25,7 @@
 		<name>compcache-swap disable</name>
 		<moddate>06/11/2011</moddate>
 		<credits>ThJap</credits>
-		<url>http://google.com</url>
+		<url>http://forum.xda-developers.com/member.php?u=4118659</url>
 		<version></version>
 		<description>disable compcache, swap. fastest</description>
 		<files>
@@ -25,7 +36,7 @@
 		<name>compcache enable</name>
 		<moddate>06/11/2011</moddate>
 		<credits>ThJap</credits>
-		<url>http://google.com</url>
+		<url>http://forum.xda-developers.com/member.php?u=4118659</url>
 		<version></version>
 		<description>enable compcache grow memory</description>
 		<files>
