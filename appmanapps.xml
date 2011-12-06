@@ -1,5 +1,16 @@
-<apps>	    
-	<app>	    
+<apps>
+	<app>
+		<name>Japanese Keyboard POBox 4.3</name>
+		<moddate>06-12-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock x10 2.3.3</version>
+		<description>Japanese Keyboard POBox 4.3</description>
+		<files>
+		  <file filename="com.sonyericsson.android.pobox-1.apk" location="data/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/com.sonyericsson.android.pobox-1.apk" md5="b7858a9c9e8e9d8f734fba0b3c042025" />
+		</files>
+	</app>
+	<app>
 		<name>2.3.4 Stock DLNA</name>
 		<moddate>05-11-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -11,17 +22,6 @@
 		</files>
 	</app>
 	<app>
-		<name>Japanese Keyboard POBox 4.3</name>
-		<moddate>06-11-2011</moddate>
-		<credits>Sony Ericsson</credits>
-		<url>http://google.com</url>
-		<version>Stock x10 2.3.3</version>
-		<description>Japanese Keyboard POBox 4.3</description>
-		<files>
-		  <file filename="JapaneseIME4.3.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/JapaneseIME4.3.apk" md5="b7858a9c9e8e9d8f734fba0b3c042025" />
-		</files>
-	</app>
-	<app>	    
 		<name>Stock Conversation</name>
 		<moddate>05-11-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -32,7 +32,7 @@
 			<file filename="Conversations.apk" location="system/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/Conversations.apk" md5="d90d88a1ed9248b87d26331d25ae0639" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Stock Timescape</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -50,7 +50,7 @@
 			<file filename="EventStreamPluginTwitter.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/EventStreamPluginTwitter.apk" md5="d121279e480724244e5782e9c448d0c5" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Sony Facebook Inside Xperia</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -66,7 +66,7 @@
 		  <file filename="FBSetupwizard.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/FBSetupwizard.apk" md5="d1d33ed44514770b13d4eda6a8b0c091" />
 		</files>
     </app>
-	<app>	    
+	<app>
 		<name>OfficeSuite</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -77,7 +77,7 @@
 			<file filename="officesuite.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/officesuite.apk" md5="e241dc611ea958aca73304c664737f78" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>TrackID</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -88,7 +88,7 @@
 			<file filename="trackid.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/trackid.apk" md5="2349c5a11680eaba53c559582021fd52" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Live WallPapers</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -100,7 +100,7 @@
 			<file filename="MagicSmokeWallpapers.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/MagicSmokeWallpapers.apk" md5="733284f20035966db1b30f676d72248e" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Sony Weather Widget</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -111,7 +111,7 @@
 			<file filename="GenieWidget.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/GenieWidget.apk" md5="26f5c9a1ac06822b3ce52d635c652d7d" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Sony Photo Widget</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -122,7 +122,7 @@
 			<file filename="PhotoWidget.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/PhotoWidget.apk" md5="9fc853391f0fde71c44349a579281e1a" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Sony Postcard</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -133,7 +133,7 @@
 			<file filename="touchnote.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/touchnote.apk" md5="83e54e7d4138dd96a443db720b04fc77" />	
 		</files>
 	</app>
-		<app>	    
+		<app>
 		<name>Sound Picker</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -144,7 +144,7 @@
 			<file filename="SoundPicker.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/SoundPicker.apk" md5="0f43dce58d01fdd4717032d35170cdcd" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Sony Playnow Store</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -155,7 +155,7 @@
 			  <file filename="playnowclientarvato.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/playnowclientarvato.apk" md5="0b4856bf359aa3d5e6adb9b54df17904" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Wisepilot</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -166,7 +166,7 @@
 			<file filename="wisepilot.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/wisepilot.apk" md5="e1e0a35910fa09944f76270da08dcf88" />
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Sony Chinese Keyboard</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
@@ -177,7 +177,7 @@
 			<file filename="chinesetextinput.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/apps/chinesetextinput.apk" md5="570cf0d0ca63de51c040ad12c8bbc398" />	
 		</files>
 	</app>
-	<app>	    
+	<app>
 		<name>Sony Bloatware</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
