@@ -1,5 +1,38 @@
 <apps>
 	<app>
+		<name>WalkMate</name>
+		<moddate>08-12-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock xperia active 2.3.4</version>
+		<description>Walking logger</description>
+		<files>
+		  <file filename="com.sonyericsson.walkmate.activity-1.apk" location="data/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/com.sonyericsson.walkmate.activity-1.apk" md5="578ea1ca6d94f4196ef4420884510957" />
+		</files>
+	</app>
+	<app>
+		<name>Compass</name>
+		<moddate>08-12-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock xperia active 2.3.4</version>
+		<description>Compass</description>
+		<files>
+		  <file filename="com.apksoftware.compass-1.apk" location="data/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/com.apksoftware.compass-1.apk" md5="b6d2024fb29871b3ee15f809a9a5f890" />
+		</files>
+	</app>
+	<app>
+		<name>Flashlight</name>
+		<moddate>08-12-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock xperia active 2.3.4</version>
+		<description>Flashlight</description>
+		<files>
+		  <file filename="com.sonyericsson.androidapp.torch-1" location="data/app/" perms="0644" appurl="http://www.dream-pro.info/~xperiajp/files/app/com.sonyericsson.androidapp.torch-1.apk" md5="c952db97e33685398da991ba7f268c2f" />
+		</files>
+	</app>
+	<app>
 		<name>Japanese Keyboard POBox 4.3</name>
 		<moddate>06-12-2011</moddate>
 		<credits>Sony Ericsson</credits>
